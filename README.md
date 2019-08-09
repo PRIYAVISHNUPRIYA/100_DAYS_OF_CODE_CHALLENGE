@@ -22,6 +22,7 @@
 
 11)[Input/print: TwoPoints](TwoPoints.md)
 
+12)[Numbers: Sum of digits](Numbers:Sum_of_digits)
 
 
 
