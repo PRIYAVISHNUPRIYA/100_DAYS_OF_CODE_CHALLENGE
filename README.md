@@ -14,6 +14,8 @@
 
 7)[print: Previous and next](print:Previousandnext.md)
 
+8)[Input/print: Apple sharing](Apple_sharing.md)
+
 
 
 
