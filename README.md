@@ -24,6 +24,8 @@
 
 12)[Numbers: Sum of digits](Sum_of_digits.md)
 
+13)[Odd_or_even](Odd_or_even.md)
+
 
 
 
