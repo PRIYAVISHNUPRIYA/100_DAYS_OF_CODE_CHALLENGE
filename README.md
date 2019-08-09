@@ -28,6 +28,7 @@
 
 14)[Days_in_month](Days_in_month.md)
 
+15)[Minimum_of_three_number](Minimum_of_three_number.md)
 
 
 
