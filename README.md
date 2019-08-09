@@ -40,8 +40,8 @@
 
 20)[JugsMugsPugs](JugsMugsPugs.md)
 
-20)[JugsMugsPugsPlus](JugsMugsPugsPlus.md)
+21)[JugsMugsPugsPlus](JugsMugsPugsPlus.md)
 
-
+22)[JugsMugsPugs_Lite](JugsMugsPugs_Lite.md)
 
 
