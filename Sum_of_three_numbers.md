@@ -13,3 +13,9 @@ Write a program that takes three numbers and prints their sum. Every number is g
 ```
 11
 ```
+```
+a = int(input())
+b = int(input())
+c=int(input())
+print(a+b+c)
+```
