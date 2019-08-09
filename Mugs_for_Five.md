@@ -1,0 +1,45 @@
+# Mugs for Five
+## JugsMugs for Three and Five
+```
+Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+Otherwise, it prints the number.
+```
+## INPUT 
+```
+3 
+```
+## OUTPUT
+```
+Jugs
+```
+## INPUT
+```
+15
+```
+## OUTPUT
+```
+Mugs
+```
+## INPUT
+```
+112
+```
+## OUTPUT 
+```
+112
+```
+```
+a=int(input())
+if((a%3==0)&(a%5==0)): 
+  print("JugsMugs")
+elif(a%5==0):
+  print("Mugs")
+elif(a%3==0):  
+  print("Jugs")
+else:
+  print(a)
+```  
+  
