@@ -5,3 +5,5 @@
 2)[Maze Completion Using Right Wall](HugRight.md)
 
 3)[Maze Completion Using Left Wall](HugLeft.md)
+
+4)[Input/print: Area of right triangle](Area of right triangle.md)
