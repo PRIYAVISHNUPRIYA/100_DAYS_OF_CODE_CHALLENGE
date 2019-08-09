@@ -12,7 +12,7 @@
 
 6)[Hello, Harry!](Hello,Harry!.md)
 
-7)[print: Previous and next](print:Previous_and_next.md)
+7)[print: Previous and next](print:Previousandnext.md)
 
 
 
