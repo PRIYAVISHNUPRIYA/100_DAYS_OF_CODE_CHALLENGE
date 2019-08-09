@@ -34,6 +34,10 @@
 
 17)[Mugs_for_Five](Mugs_for_Five.md)
 
+18)[Jugs_for_Three](Jugs_for_Three.md)
+
+19)[
+
 
 
 
