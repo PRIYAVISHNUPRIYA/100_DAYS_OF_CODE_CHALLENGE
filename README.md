@@ -12,7 +12,7 @@
 
 6)[Hello, Harry!](Hello,Harry!.md)
 
-7)[Input/print: Previous and next](print:Previousandnext.md)
+7)[Input/print: Previous and next](Previous_and_next.md)
 
 8)[Input/print: Apple sharing](Apple_sharing.md)
 
