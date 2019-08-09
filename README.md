@@ -40,7 +40,7 @@
 
 20)[JugsMugsPugs](JugsMugsPugs.md)
 
-20)[JugsMugsPugs.md](JugsMugsPugs.md)
+20)[JugsMugsPugsPlus](JugsMugsPugsPlus.md)
 
 
 
