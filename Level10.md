@@ -1,4 +1,4 @@
-# Day:1 Level10
+# Level 10
 # Blockly Maze Completion
 ```
 After you complete the 10th level, what is the JavaScript code you got? 
