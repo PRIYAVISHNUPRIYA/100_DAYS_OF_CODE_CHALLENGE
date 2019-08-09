@@ -38,6 +38,8 @@
 
 19)[Membership:Digit_in_Number](Digit_in_Number.md)
 
+20)[JugsMugsPugs](JugsMugsPugs.md)
+
 20)[JugsMugsPugs.md](JugsMugsPugs.md)
 
 
