@@ -20,6 +20,8 @@
 
 10)[Input/print: Two timestamps](Two_timestamps.md)
 
+11)[Input/print: TwoPoints](TwoPoints.md)
+
 
 
 
