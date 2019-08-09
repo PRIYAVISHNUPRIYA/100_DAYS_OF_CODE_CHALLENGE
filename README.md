@@ -3,3 +3,5 @@
 1)[Blockly Maze Completion](Level10.md)
 
 2)[Maze Completion Using Right Wall](HugRight.md)
+
+3)[Maze Completion Using Left Wall](HugLeft.md)
