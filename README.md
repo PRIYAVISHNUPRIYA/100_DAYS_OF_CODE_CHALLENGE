@@ -47,3 +47,5 @@
 23)[3.V. JugsMugsPugsPlus Reverse](JugsMugsPugsPlusReverse.md)
 
 24)[4.8.For:Sum_of_factorials](4.8.For:Sum_of_factorials.md)
+
+
