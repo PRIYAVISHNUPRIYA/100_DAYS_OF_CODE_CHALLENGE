@@ -50,3 +50,4 @@
 
 25)[Sum_of_cubes](Sum_of_cubes.md)
 
+26)[Sum_of_N_numbers](Sum_of_N_numbers.md)
