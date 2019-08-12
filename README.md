@@ -48,5 +48,5 @@
 
 24)[4.8.For:Sum_of_factorials](Sum_of_factorials.md)
 
-
+25)[Sum_of_cubes](Sum_of_cubes.md)
 
